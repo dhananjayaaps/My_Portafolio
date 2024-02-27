@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Group project for the mertanal care 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "That is a collaborative project that we did for the mertanal care. We used the php MVC for the development. We used the MYSSQL for the database.",
+    url: "https://github.com/dhananjayaaps/NurtureLife",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Flower Stock Exchange",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "That application is represent a real world stock exchange. We used C++ for the development. Used QT for the GUI.",
+    url: "https://github.com/dhananjayaaps/FlowerStockExchange",
   },
   {
     title: "My Resume Site",
-    description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    description: "Created with html, css and scss and deployed using the github pages.",
+    url: "https://sinethd.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Ticket Booking System",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "That is a ticket booking system for the cinema. We used Java swing for the development. We used the MYSSQL for the database.",
+    url: "https://github.com/dhananjayaaps/MusicalTicketSystem",
   },
 ];
 
