@@ -23,7 +23,9 @@
         "esbenp.prettier-vscode",
         "GitHub.copilot",
         "ms-vscode.azure-account",
-        "ms-azuretools.vscode-azurestaticwebapps"
+        "ms-azuretools.vscode-azurestaticwebapps",
+        "dbaeumer.vscode-eslint",
+        "oderwat.indent-rainbow" 
       ],
       "settings": {
         "emmet.includeLanguages": {
